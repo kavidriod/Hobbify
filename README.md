@@ -1,5 +1,3 @@
-
-
 # Hobbify
 
 **Introducing Hobbify, the simplest tool to keep track of your hobbies.**
