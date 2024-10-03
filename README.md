@@ -26,7 +26,7 @@
 
 <img src="https://github.com/kavidriod/Hobbify/assets/28779054/e1a9ba23-e138-415d-8354-9bd175bb2b0b" width="350"  >
 
-<img src="https://github.com/kavidriod/Hobbify/assets/28779054/a2cf6823-60c5-49e2-889c-7b82d9b5418a" width="350  >
+<img src="https://github.com/kavidriod/Hobbify/assets/28779054/a2cf6823-60c5-49e2-889c-7b82d9b5418a" width="350"  >
 
 <img src="https://github.com/kavidriod/Hobbify/assets/28779054/291a90f0-56d6-4e12-a4eb-4c0e68386cf9" width="350"  >
 
